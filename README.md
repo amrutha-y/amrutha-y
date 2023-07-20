@@ -1,7 +1,15 @@
 ### Hi there 👋
 
 I am Amrutha Y
-Computer Science and Engineering Student
+
+- 🔭 I’m currently working on Web development projects
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
+- 👯 I’m looking to collaborate on python projects and other innovations
+- 🤔 I’m looking for help with open source contributions
+- 📫 How to reach me: https://linkedin.com/in/amrutha-y
+  
+
+
 
 <!--
 **amrutha-y/amrutha-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
