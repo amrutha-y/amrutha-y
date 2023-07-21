@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-I am Amrutha Y
 
-- 🔭 I’m currently working on Web development projects
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
-- 👯 I’m looking to collaborate on python projects and other innovations
-- 🤔 I’m looking for help with open source contributions
-- 📫 How to reach me: https://linkedin.com/in/amrutha-y
-  
 
 
 
