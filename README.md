@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amrutha Y</h1>
 <h3 align="center">A Computer Science Enthusiast</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
-
-- 💬 Ask me about **Web development**
+- 🌱 I’m currently working as an **Associate Software Engineer** in **Generative AI** space.
 
 - 📫 How to reach me **amruthachatre@gmail.com**
 
